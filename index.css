@@ -1,0 +1,26 @@
+
+
+body {
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(59, 79, 159);
+    height: 100%;
+}
+svg {
+    background-color: rgb(101, 169, 245);
+}
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#title {
+    font-size:xx-large;
+    color:rgb(68, 68, 68);
+    font-weight: bolder;
+}
+
+.bar:hover {
+    fill: #ff3c3c !important;
+    cursor: pointer;
+}
